@@ -1,16 +1,18 @@
-## Hi there 👋
+# 你好，我是mumu82575 👋
 
-<!--
-**mumu82575-commits/mumu82575-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 在读学生 / 前端开发爱好者
+🌱 正在学习 JavaScript 和 React
+💬 欢迎和我聊 Web 开发、游戏、摄影
+📫 联系我：1450886238@qq.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub 统计
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mumu82575-commits&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mumu82575-commits&layout=compact&theme=tokyonight)
+
+### 贡献热力图
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mumu82575-commits&theme=tokyonight)
